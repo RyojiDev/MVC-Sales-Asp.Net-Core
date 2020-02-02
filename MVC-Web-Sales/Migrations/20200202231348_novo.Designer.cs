@@ -4,14 +4,16 @@ using MVC_Web_Sales.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace MVC_Web_Sales.Migrations
 {
     [DbContext(typeof(MVC_Web_SalesContext))]
-    partial class MVC_Web_SalesContextModelSnapshot : ModelSnapshot
+    [Migration("20200202231348_novo")]
+    partial class novo
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

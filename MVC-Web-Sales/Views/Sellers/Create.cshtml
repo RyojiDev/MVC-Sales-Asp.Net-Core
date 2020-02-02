@@ -1,0 +1,45 @@
+﻿
+@model MVC_Web_Sales.Models.ViewModels.SellerFormViewModel;
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h4>Seller</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label asp-for="Seller.Name" class="control-label">Name
+                    <input asp-for="Seller.Name" class="form-control" />
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seller.Email" class="control-label">Email
+                    <input asp-for="Seller.Email" class="form-control" />
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seller.BirthDate" class="control-label">BirthDate
+                    <input asp-for="Seller.BirthDate" class="form-control" />
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seller.BaseSalary" class="control-label">BaseSalary
+                    <input asp-for="Seller.BaseSalary" class="form-control" />
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Seller.Department" class="control-label">
+                    <select asp-for="Seller.Department" asp-items="@(new SelectList(Model.Departments
+           ,"Id","Name"))" class="form-control"></select>
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>

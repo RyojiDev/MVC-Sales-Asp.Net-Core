@@ -329,3 +329,4 @@ D:\Projetos\C#\Projetos\ASP NET\MVC-Sales-Asp.Net-Core\MVC-Web-Sales\obj\Debug\n
 D:\Projetos\C#\Projetos\ASP NET\MVC-Sales-Asp.Net-Core\MVC-Web-Sales\obj\Debug\netcoreapp3.1\MVC-Web-Sales.dll
 D:\Projetos\C#\Projetos\ASP NET\MVC-Sales-Asp.Net-Core\MVC-Web-Sales\obj\Debug\netcoreapp3.1\MVC-Web-Sales.pdb
 D:\Projetos\C#\Projetos\ASP NET\MVC-Sales-Asp.Net-Core\MVC-Web-Sales\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
+D:\Projetos\C#\Projetos\ASP NET\MVC-Sales-Asp.Net-Core\MVC-Web-Sales\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Create.cshtml.g.cs
