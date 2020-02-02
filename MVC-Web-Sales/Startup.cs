@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using MVC_Web_Sales.Data;
+using MVC_Web_Sales.Services;
 
 namespace MVC_Web_Sales
 {
@@ -31,6 +32,7 @@ namespace MVC_Web_Sales
                     options.UseSqlServer(Configuration.GetConnectionString("MVC_Web_SalesContext")));
 
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
