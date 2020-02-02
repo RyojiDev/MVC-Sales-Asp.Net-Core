@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp\\MVC-Web-Sales\\MVC-Web-Sales\\MVC-Web-Sales.csproj": {}
+    "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp\\MVC-Web-Sales\\MVC-Web-Sales\\MVC-Web-Sales.csproj": {
+    "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp\\MVC-Web-Sales\\MVC-Web-Sales\\MVC-Web-Sales.csproj",
+        "projectUniqueName": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj",
         "projectName": "MVC-Web-Sales",
-        "projectPath": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp\\MVC-Web-Sales\\MVC-Web-Sales\\MVC-Web-Sales.csproj",
+        "projectPath": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj",
         "packagesPath": "C:\\Users\\Iesu Sama Aishiteiru\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp\\MVC-Web-Sales\\MVC-Web-Sales\\obj\\",
+        "outputPath": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

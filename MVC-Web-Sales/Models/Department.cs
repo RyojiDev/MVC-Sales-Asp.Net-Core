@@ -16,9 +16,14 @@ namespace MVC_Web_Sales.Models
 
         }
 
+        public Department(string name)
+        {
+
+        }
+
         public Department(int id, string name)
         {
-            Id = id;
+            
             Name = name;
         }
 

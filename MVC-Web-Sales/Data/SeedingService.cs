@@ -2,10 +2,12 @@
 using MVC_Web_Sales.Models;
 using MVC_Web_Sales.Models.Enums;
 using System.Linq;
+using System.IO;
 
 
 namespace MVC_Web_Sales.Data
 {
+    
     public class SeedingService
     {
         private MVC_Web_SalesContext _context;
@@ -15,8 +17,10 @@ namespace MVC_Web_Sales.Data
             _context = context;
         }
 
+
+
         public void Seed()
-        {
+        {/*
             if (_context.Department.Any() ||
                 _context.Seller.Any() ||
                 _context.SalesRecord.Any())
@@ -24,7 +28,7 @@ namespace MVC_Web_Sales.Data
                 return; // DB has been seeded
             }
 
-            Department d1 = new Department(1, "Computers");
+           Department d1 = new Department(1,"Computers");
             Department d2 = new Department(2, "Electronics");
             Department d3 = new Department(3, "Fashion");
             Department d4 = new Department(4, "Books");
@@ -77,7 +81,7 @@ namespace MVC_Web_Sales.Data
                 r21, r22, r23, r24, r25, r26, r27, r28, r29, r30
             );
 
-            _context.SaveChanges();
+            _context.SaveChanges();*/
         }
     }
 
