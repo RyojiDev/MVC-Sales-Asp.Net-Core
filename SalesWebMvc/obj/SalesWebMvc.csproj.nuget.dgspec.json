@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\C#\\Projetos\\Aulas-C-nelio-alves\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\C#\\Projetos\\Aulas-C-nelio-alves\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\C#\\Projetos\\Aulas-C-nelio-alves\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "D:\\Projetos\\C#\\Projetos\\Aulas-C-nelio-alves\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectPath": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\SalesWebMvc\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\Iesu Sama Aishiteiru\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\C#\\Projetos\\Aulas-C-nelio-alves\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "outputPath": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
