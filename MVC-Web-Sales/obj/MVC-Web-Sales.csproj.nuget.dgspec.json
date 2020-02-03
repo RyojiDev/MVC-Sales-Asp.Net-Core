@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj": {}
+    "C:\\Users\\ryoji.kitano\\Documents\\Ryoji-Projetos\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj": {
+    "C:\\Users\\ryoji.kitano\\Documents\\Ryoji-Projetos\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj",
+        "projectUniqueName": "C:\\Users\\ryoji.kitano\\Documents\\Ryoji-Projetos\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj",
         "projectName": "MVC-Web-Sales",
-        "projectPath": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj",
-        "packagesPath": "C:\\Users\\Iesu Sama Aishiteiru\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\C#\\Projetos\\ASP NET\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\obj\\",
+        "projectPath": "C:\\Users\\ryoji.kitano\\Documents\\Ryoji-Projetos\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\MVC-Web-Sales.csproj",
+        "packagesPath": "C:\\Users\\ryoji.kitano\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryoji.kitano\\Documents\\Ryoji-Projetos\\MVC-Sales-Asp.Net-Core\\MVC-Web-Sales\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Iesu Sama Aishiteiru\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\ryoji.kitano\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
